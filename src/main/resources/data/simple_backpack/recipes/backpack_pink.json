@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "BA ",
+      "   "
+    ],
+    "key": {
+      "A": {
+        "item": "simple_backpack:backpack"
+      },
+      "B": {
+        "item": "minecraft:pink_dye"
+      }
+    },
+    "result": {
+      "item": "simple_backpack:backpack_pink",
+      "count": 1
+    }
+  }
